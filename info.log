@@ -1,0 +1,60 @@
+{"message":"serializeGifts is not defined","level":"error"}
+{"message":"GiftsService is not defined","level":"error"}
+{"message":"serializeNames is not defined","level":"error"}
+{"message":"Unexpected token } in JSON at position 43","level":"error"}
+{"message":"Cannot read property 'then' of undefined","level":"error"}
+{"message":"user_id is not defined","level":"error"}
+{"message":"user_id is not defined","level":"error"}
+{"message":"user_id is not defined","level":"error"}
+{"message":"user_id is not defined","level":"error"}
+{"message":"NameService is not defined","level":"error"}
+{"message":"NameService is not defined","level":"error"}
+{"message":"Unexpected token \" in JSON at position 0","level":"error"}
+{"message":"Unexpected token \" in JSON at position 0","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"add_gift\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"add_gift\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"add_gift\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"add_gift\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"add_name\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"add_name\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"add_name\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"add_gift\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"add_gift\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"add_gift\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"add_name\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"add_gift\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"add_gift\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"add_gift\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"add_gift\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"add_gift\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"add_gift\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"add_gift\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"add_gift\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"add_name\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"add_name\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"add_name\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"req.params.map is not a function","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"Converting circular structure to JSON\n    --> starting at object with constructor 'Socket'\n    |     property 'parser' -> object with constructor 'HTTPParser'\n    --- property 'socket' closes the circle","level":"error"}
+{"message":"insert into \"giftwrap_names\" (\"name\", \"userId\") values ($1, $2) returning * - column \"userId\" of relation \"giftwrap_names\" does not exist","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"select * from \"giftwrap_names\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"NaN\"","level":"error"}
